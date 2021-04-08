@@ -6,7 +6,7 @@ Tools Used:
 Front-end: HTML, CSS, JavaScript
 Back-end: MySQL, PHP
 
-##Screenshots:
+## Screenshots:
 
 ![Alt Text](https://github.com/pritivasekar/Hotel-Management-System/blob/main/Screenshots/index.JPG)
 ![Alt Text](https://github.com/pritivasekar/Hotel-Management-System/blob/main/Screenshots/login.JPG)
@@ -18,14 +18,14 @@ Back-end: MySQL, PHP
 
 
 
-Features:
+### Features:
 1. User Login: This contains all the tools and options required by any user who's willing to book a hotel room.
 2. Admin Login: This contains all the controls that an administrator has to manage the hotel including adding and deleting rooms.
 3. Image Gallery: This contains image gallery of the rooms in the hotel.
 4. Room Brochure: This is room rate card.
 5. Room Booking History: This is the previous room bookings history stored for future references.
 
-Working:
+### Working:
 1. A new user sign up and creates a new account. Then the user logins using the email and password.
 2. After logging in, user books a room.
 3. The room booking request is sent to hotel administrator. This is the admin job to either confirm or delete the request. User can also delete his/her room booking request if any changes in plan happens.
